@@ -16,6 +16,6 @@ public class Test1 {
 
     @Test
     public void test3(){
-        System.out.println("Third Test");
+        System.out.println("Third Test modified");
     }
 }
