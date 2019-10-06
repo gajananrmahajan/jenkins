@@ -8,4 +8,9 @@ public class Test1 {
     public void test(){
         System.out.println("First Test");
     }
+
+    @Test
+    public void test2(){
+        System.out.println("Second Test");
+    }
 }
